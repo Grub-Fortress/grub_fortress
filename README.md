@@ -2,6 +2,40 @@
 
 Welcome to the Github page for my TF2 Sourcemod
 
+## New Weapons
+
+### Nailgun
+* A great tool that should be in every handy-mans toolbox. not sure if it should be used as a weapon
+
+### RPG
+* Rockets travel in an arc
+* 20% damage bonus
+* -50% clip size
+
+### Leadpipe
+* +50% damage bonus
+* 20% slower firing speed
+* No random critical hits
+
+### Not So Sticky Bomb Launcher
+* Projecitles don't stick to the world
+* Alt-Fire: Detonate all stickybombs
+
+### Not So Sticky Jumper
+* Projecitles don't stick to the world
+* 200% max secondary ammo on wearer
+* No self inflicted blast damage taken
+* -100% damage penalty
+* No random critical hits
+* -6 stickybombs out
+* Wearer cannot carry the intelligence briefcase or PASS Time JACK
+* Alt-Fire: Detonate all stickybombs
+
+### Syringe Gun 2
+* +50% faster firing speed
+* -25% damage penalty
+* -75% clip size
+
 ## QnA
 
 ### Q: Why did you make the mod?
