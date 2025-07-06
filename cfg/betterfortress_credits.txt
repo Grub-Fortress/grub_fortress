@@ -1,0 +1,57 @@
+//CREDITS TO BETAM!! PLAY HIS MOD RIGHT NOW!
+VERSION 1.0
+DESCRIPTION INFO_OPTIONS
+{
+	"category1"
+	{
+		"Grub Fortress"
+		{ CATEGORY }
+	}
+	"credit1_1"
+	{
+		"by Grub
+		NOTICE :If I Forgot to credit someone in here, reach out to me"
+		{ BOOL }
+		{ "1" }
+	}	
+	"category2"
+	{
+		"Community Help/Contributions"
+		{ CATEGORY }
+	}	
+	"credit2_1"
+	{
+		"BetaM - Custom Items, Credits menu, misc. fixes"
+		"https://www.youtube.com/BetaM"
+		{ BOOL }
+		{ "1" }
+	}	
+	"credit2_2"
+	{
+		"Better Fortress 2 - The mod Grub Fortress is a fork of"
+		"https://github.com/ALIEN31ITA/Better-Fortress-2"
+		{ BOOL }
+		{ "1" }
+	}	
+	"credit2_3"
+	{
+		"Team Fortress 2 Classic - Rocket Gravity Attribute"
+		"https://www.tf2classic.com"
+		{ BOOL }
+		{ "1" }
+	}	
+	"credit2_4"
+	{
+		"Team Fortress 2 Goldrush - Removed MYM Hud, And V_Model Support"
+		"https://www.tf2goldrush.com/"
+		{ BOOL }
+		{ "1" }
+	}
+	"credit2_5"
+	{
+		"Toru the Red Fox - Old TF2 Main menu"
+		"https://github.com/TorutheRedFox/source-sdk-2013"
+		{ BOOL }
+		{ "1" }
+	}
+}
