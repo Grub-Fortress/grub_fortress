@@ -2,6 +2,11 @@
 
 Welcome to the Github page for my TF2 Sourcemod
 
+
+info : TF:Grub Open Alpha Build 0001
+
+Date : 06.07.2025
+
 ## New Weapons
 
 ### Nailgun
