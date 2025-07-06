@@ -41,6 +41,17 @@ Date : 06.07.2025
 * -25% damage penalty
 * -75% clip size
 
+## Maps
+Koth_Landfall
+![Koth Landfall](https://github.com/user-attachments/assets/d829600d-7ba8-426e-a41c-283a8a6721e0)
+
+## Screenshots
+![Nailgun Landfall](https://github.com/user-attachments/assets/3aa29f3f-c304-4974-ba2b-1ddb3b29fc38)
+![Leadpipe Dustbowl](https://github.com/user-attachments/assets/b885f0ce-a733-466b-a3d4-e61164890e5d)
+![Not Stickybomb Launcher Dustbowl](https://github.com/user-attachments/assets/b5fb8517-8909-4694-b8c3-44ff02b4d4f5)
+
+
+
 ## QnA
 
 ### Q: Why did you make the mod?
