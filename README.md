@@ -7,6 +7,10 @@ Welcome to the Github page for my TF2 Sourcemod
 ### Q: Why did you make the mod?
 A: No reason at all to be honest, just made it for fun
 
+### Q: Why is the mod full of unoriginal ideas
+A: idk, just though these ideas would be cool, like i said, I'm just makin a sourcemod for fun
+
+
 ### uhh, i guess i might add more questions later
 
 ## Credits
