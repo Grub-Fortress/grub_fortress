@@ -50,7 +50,35 @@ Koth_Landfall
 ![Leadpipe Dustbowl](https://github.com/user-attachments/assets/b885f0ce-a733-466b-a3d4-e61164890e5d)
 ![Not Stickybomb Launcher Dustbowl](https://github.com/user-attachments/assets/b5fb8517-8909-4694-b8c3-44ff02b4d4f5)
 
+## Weapon Rebalances
 
+### The Crusader's Crossbow
+* 50% slower reload time
+
+### The Family Business
+* Weapon can now be equiped on Engineer, Heavy, Soldier and Pyro.
+
+### The B.A.S.E. Jumper
+* Weapon can now be re-deployed an infinite amount of times
+
+### The Ambassador
+* Weapon will always deal the same amount of headshot damage regardless the range
+
+### The Axtinguisher
+* 100% critical hit vs buring players
+* -33% damage penalty
+* No random critical hits
+* This weapon holsters 35% slower
+
+### Baby Face's Blaster
+* On Hit: Builds Boost
+* Run speed increased with Boost
+* -34% clip size
+* 10% slower move spead on wearer
+* 25% Boost reduced on air jumps
+
+## The Gunboats
+* Weapon can now be equiped on Soldier and Demoman.
 
 ## QnA
 
