@@ -36,7 +36,7 @@ Date : 06.07.2025
 * Wearer cannot carry the intelligence briefcase or PASS Time JACK
 * Alt-Fire: Detonate all stickybombs
 
-### Syringe Gun 2
+### The Under Pressure
 * +50% faster firing speed
 * -25% damage penalty
 * -75% clip size
@@ -65,17 +65,18 @@ A: idk, just though these ideas would be cool, like i said, I'm just makin a sou
 
 ## Credits
 
-- **BetaM** – Custom Items, Credits menu, misc. fixes  
-  https://www.youtube.com/BetaM
+- **Weapon Models**
+  - **The Under Pressure – Haau, Dim**  
+    https://gamebanana.com/mods/529270
 
-- **Better Fortress 2** – The mod Grub Fortress is a fork of  
-  https://github.com/ALIEN31ITA/Better-Fortress-2
-
-- **Team Fortress 2 Classic** – Rocket Gravity Attribute  
-  https://www.tf2classic.com
-
-- **Team Fortress 2 Goldrush** – Removed MYM Hud, And V_Model Support  
-  https://www.tf2goldrush.com/
-
-- **Toru the Red Fox** – Old TF2 Main menu  
-  https://github.com/TorutheRedFox/source-sdk-2013
+- **Community Help/Contributions**
+  - **BetaM** – Custom Items, Credits menu, misc. fixes  
+    https://www.youtube.com/BetaM
+  - **Better Fortress 2** – The mod Grub Fortress is a fork of  
+    https://github.com/ALIEN31ITA/Better-Fortress-2
+  - **Team Fortress 2 Classic** – Rocket Gravity Attribute  
+    https://www.tf2classic.com
+  - **Team Fortress 2 Goldrush** – Removed MYM Hud, And V_Model Support  
+    https://www.tf2goldrush.com/
+  - **Toru the Red Fox** – Old TF2 Main menu  
+    https://github.com/TorutheRedFox/source-sdk-2013
