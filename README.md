@@ -52,6 +52,9 @@ Koth_Landfall
 
 ## Weapon Rebalances
 
+### All Sniper Rifles
+* Instead of projecting a laser dot, the sniper rifle will now emit a continuous laser beam from the sniper to the point they are aiming at.
+
 ### The Crusader's Crossbow
 * 50% slower reload time
 
@@ -77,7 +80,7 @@ Koth_Landfall
 * 10% slower move spead on wearer
 * 25% Boost reduced on air jumps
 
-## The Gunboats
+### The Gunboats
 * Weapon can now be equiped on Soldier and Demoman.
 
 ## QnA
