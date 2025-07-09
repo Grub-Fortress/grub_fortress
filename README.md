@@ -41,6 +41,15 @@ Date : 06.07.2025
 * -25% damage penalty
 * -75% clip size
 
+### The Perforator
+* +250% damage bonus
+* +100% projectile speed
+* 50% slower firing speed
+* -50% max primary ammo on wearer
+* 15% slower spin up time
+* -50% max health on wearer
+* Shoots nail projectiles
+
 ## Maps
 Koth_Landfall
 ![Koth Landfall](https://github.com/user-attachments/assets/d829600d-7ba8-426e-a41c-283a8a6721e0)
