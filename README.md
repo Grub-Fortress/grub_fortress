@@ -43,12 +43,19 @@ Date : 06.07.2025
 
 ### The Perforator
 * +250% damage bonus
-* +100% projectile speed
 * 50% slower firing speed
 * -50% max primary ammo on wearer
 * 15% slower spin up time
 * -50% max health on wearer
 * Shoots nail projectiles
+
+### The Big Owen
+* +25 damage bonus
+* 50% faster spin up time
+* 100% more accurate
+* Silent Killer: No barrel spin sound
+* 300% slower firing speed
+* -75% max primary ammo on wearer
 
 ## Maps
 Koth_Landfall
@@ -108,6 +115,12 @@ A: idk, just though these ideas would be cool, like i said, I'm just makin a sou
 - **Weapon Models**
   - **The Under Pressure – Haau, Dim**  
     https://gamebanana.com/mods/529270
+
+  - **The Perforator – Haau, kibbleknight**  
+    https://gamebanana.com/mods/516732
+
+   - **The Big Owen – Haau, kibbleknight**  
+    https://gamebanana.com/mods/603188
 
 - **Community Help/Contributions**
   - **BetaM** – Custom Items, Credits menu, misc. fixes  
