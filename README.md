@@ -2,6 +2,7 @@
 
 Welcome to the Github page for my TF2 Sourcemod
 
+Website : https://grub-fortress.github.io/
 
 info : TF:Grub Open Alpha Build 0001
 
@@ -95,6 +96,9 @@ Koth_Landfall
 * -34% clip size
 * 10% slower move spead on wearer
 * 25% Boost reduced on air jumps
+
+### The Sandman
+* Alt-Fire: Launches a ball that slows opponents, and stuns opponents at long range
 
 ### The Gunboats
 * Weapon can now be equiped on Soldier and Demoman.
