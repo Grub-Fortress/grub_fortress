@@ -6,7 +6,7 @@ Website : https://grub-fortress.github.io/
 
 info : TF:Grub Open Alpha Build 0001
 
-Date : 06.07.2025
+Date : 11.07.2025
 
 ## New Weapons
 
