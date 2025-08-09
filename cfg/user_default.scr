@@ -99,7 +99,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Hitbeeps"
 		"#Tooltip_Hitbeeps"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"tf_dingaling_volume"
@@ -327,6 +327,14 @@ DESCRIPTION INFO_OPTIONS
 		{ SLIDER 10 99 }
 		{ "75" }
 	}
+	
+	"bf_medic_show_crit_heal_indicator"
+	{
+		"#TF_MedicShowCritHealIndicator"
+		"#Tooltip_MedicShowCritHealIndicator"
+		{ BOOL }
+		{ "1" }
+	}
 		
 	"category4"
 	{
@@ -508,7 +516,7 @@ DESCRIPTION INFO_OPTIONS
 	{
 		"#TF_ScoreBoard_PingAsText"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"tf_scoreboard_alt_class_icons"

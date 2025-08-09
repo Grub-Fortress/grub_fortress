@@ -192,7 +192,6 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		
 		"lights"
 		{
 			"spotlight"
@@ -208,7 +207,6 @@
 				"exponent"				"5"
 			}
 		}
-		
 		"render_texture"	"0"
 		"fov"			"30"
 		"allow_rot"		"1"
@@ -297,7 +295,7 @@
 		"ControlName"	"CLoadoutPresetPanel"
 		"FieldName"		"loadout_preset_panel"
 		"zpos"			"20"
-		"wide"			"150"
+		"wide"			"225"
 		"tall"			"25"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -644,7 +642,7 @@
 		"ypos"				"c-180"
 		"zpos"				"12"
 		"wide"				"25"
-		"tall"				"25"
+		"tall"				"15"
 		"autoResize"		"1"
 		"pinCorner"			"2"
 		"visible"			"1"
@@ -691,10 +689,10 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"SkinBlue"
 		"xpos"				"c122"
-		"ypos"				"c-152"
+		"ypos"				"c-162"
 		"zpos"				"12"
 		"wide"				"25"
-		"tall"				"25"
+		"tall"				"15"
 		"autoResize"		"1"
 		"pinCorner"			"2"
 		"visible"			"1"
